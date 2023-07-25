@@ -1,0 +1,22 @@
+.log{
+    margin-left: 300px;
+    margin-top: 40px;
+    font-family: emoji;
+}
+.input-field{
+    margin-top: 30px;
+    margin-left: 300px;
+     width: 400px;
+    border: 2px solid black;
+  border-radius: 3px;
+}
+.btn1{  
+    margin-left: 300px;
+}
+.main{
+    background: none;
+    height:300px;
+    margin: 50px;
+    border-radius: 3px;
+
+}

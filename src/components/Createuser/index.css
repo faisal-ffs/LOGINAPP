@@ -1,0 +1,14 @@
+.container{
+  display: grid;
+}
+.header{
+  margin-top: 40px;
+  margin-left: 300px;
+  font-family: emoji;
+}
+.input-fields2{
+  margin-left: 300px;
+  width: 650px;
+  margin-top: 15px;
+
+}
